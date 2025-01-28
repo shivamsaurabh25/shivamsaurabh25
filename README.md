@@ -70,3 +70,7 @@
 [![Shivam's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamsaurabh25&theme=github-dark&hide_border=true&bg_color=0D1117&line=00FF00&point=FFFFFF&title_color=FFFFFF)](https://github.com/yourgithubusername)
 
 </div>
+
+#### 🔍 Profile views :
+
+![Visitor Count](https://profile-counter.glitch.me/{shivamsaurabh25}/count.svg)
