@@ -9,16 +9,16 @@
   <a href="mailto:shivamsaurabh2862@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-saurabh-095764195/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivamsaurabh25/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/shivam_saurabh_45/" target="_blank">
+  <a href="https://dev.to/shivamsaurabh25/" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A66C?style=for-the-badge&logo=dev.to&logoColor=white" alt="LinkedIn" />
   </a>
- <a href="https://www.instagram.com/shivam_saurabh_45/" target="_blank">
+ <a href="https://www.instagram.com/shivamsaurabh25/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://x.com/Shivam2862" target="_blank">
+  <a href="https://x.com/shivamsaurabh25" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
 </div>
